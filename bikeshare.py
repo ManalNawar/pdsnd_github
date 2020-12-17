@@ -22,6 +22,7 @@ def get_filters():
     """
     # add defult value for day and month so if the user didn't spicifiy the application wont break
     # adding new comment for github project
+    # first change for refactoring branch
     month = 'all'
     day = 'all'
     while True:
