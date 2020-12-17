@@ -21,6 +21,7 @@ def get_filters():
     these inputs includes choosing the city, the type of fillter to use (day, month , both)
     """
     # add defult value for day and month so if the user didn't spicifiy the application wont break
+    # adding new comment for github project
     month = 'all'
     day = 'all'
     while True:
